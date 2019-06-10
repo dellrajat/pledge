@@ -13,6 +13,9 @@
 
     	 <plugin spec="https://github.com/litehelpers/Cordova-sqlite-evcore-extbuild-free.git#0.8.2" source="git"/> 
 	
+	<plugin name="cordova-plugin-dialogs" spec="~2.0.1" />
+    <plugin name="cordova-sqlite-storage" spec="~2.3.2" />
+	
 
 
 
