@@ -11,8 +11,7 @@
     <access origin="*" />
 
 	
-	<plugin name="cordova-plugin-device" spec="~1.1.0" /> 
-<plugin name="cordova-plugin-device" spec="https://github.com/apache/cordova-plugindevice.git#1.0.0" /> 
+
 
     	 <plugin spec="https://github.com/litehelpers/Cordova-sqlite-evcore-extbuild-free.git#0.8.2" source="git"/> 
 	
