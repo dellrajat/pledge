@@ -25,6 +25,7 @@
 		var db;
 
 		function onDeviceReady(){
+			console.log(cordova.file);
 			alert("Device Ready");
 
 			db=window.openDatabase("myPledgeDB","1.0","Simple Demo", 2 * 1024 * 1024);
